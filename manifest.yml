@@ -1,0 +1,6 @@
+---
+applications:
+- name: a7d7p_blog
+
+services:
+- clear_spark_svc
